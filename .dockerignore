@@ -1,0 +1,14 @@
+.git
+.github
+.env
+.env.*
+!.env.example
+node_modules
+vendor
+tests
+public/build
+public/hot
+storage/logs
+storage/framework
+bootstrap/cache
+.vercel
